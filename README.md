@@ -6,7 +6,7 @@
 
 ---
 
-## 🚧 Currently Working On
+##  Currently Working On
 
 * Strengthening **Data Structures & Algorithms**
 * Building **AI & Machine Learning powered tools**
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -44,20 +44,12 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 * Become a strong **AI / ML engineer**
 * Build impactful **real-world AI systems**
 * Contribute to **open-source projects**
 * Secure a **software engineering / AI internship**
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
 ## PERSONAL
